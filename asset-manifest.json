@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/NexaProject/static/css/main.4e205f49.css",
+    "main.js": "/NexaProject/static/js/main.3070eb20.js",
+    "static/media/bgcolor.png": "/NexaProject/static/media/bgcolor.2c55f5f4c9f822a64e1b.png",
+    "static/media/youtube.jpg": "/NexaProject/static/media/youtube.f12948a8347db2b4836e.jpg",
+    "static/media/bgcolortwo.jpg": "/NexaProject/static/media/bgcolortwo.f9f1e4d9081a06cfcecf.jpg",
+    "static/media/footer.jpeg": "/NexaProject/static/media/footer.646459b1a7b92da7fde1.jpeg",
+    "index.html": "/NexaProject/index.html",
+    "main.4e205f49.css.map": "/NexaProject/static/css/main.4e205f49.css.map",
+    "main.3070eb20.js.map": "/NexaProject/static/js/main.3070eb20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e205f49.css",
+    "static/js/main.3070eb20.js"
+  ]
+}
